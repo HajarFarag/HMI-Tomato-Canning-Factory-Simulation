@@ -34,7 +34,7 @@ This project involves the use of a Programmable Logic Controller (PLC) and Human
 
 ### Machine Status 
 <br />
-<img src="https://github.com/HajarFarag/HMI-Tomato-Canning-Factory-Simulation/assets/103531166/10ef9bd9-0abb-4e28-a9bd-95378113b5d2" width="800" height="450" />
+<img src="https://github.com/HajarFarag/HMI-Tomato-Canning-Factory-Simulation/assets/103531166/10ef9bd9-0abb-4e28-a9bd-95378113b5d2" width="800" height="500" />
 
 
 ## Features
