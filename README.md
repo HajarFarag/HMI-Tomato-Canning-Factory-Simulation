@@ -29,7 +29,7 @@ This project involves the use of a Programmable Logic Controller (PLC) and Human
 <br />
 <img src="https://github.com/HajarFarag/HMI-Tomato-Canning-Factory-Simulation/assets/103531166/7913073f-4d25-41ad-8e26-690857095008" width="800" height="450" />
 
-### Prep 
+### Preparation 
 <br />
 <img src="https://github.com/HajarFarag/HMI-Tomato-Canning-Factory-Simulation/assets/103531166/9bb4bf44-f66f-4eb0-9c00-c7f5f32eba58" width="800" height="450" />
 
@@ -37,11 +37,11 @@ This project involves the use of a Programmable Logic Controller (PLC) and Human
 <br />
 <img src="https://github.com/HajarFarag/HMI-Tomato-Canning-Factory-Simulation/assets/103531166/8048b8eb-57de-452b-9935-f1ff0724d85c" width="800" height="450" />
 
-### Cook and Cool 
+### Steam and Cool 
 <br />
 <img src="https://github.com/HajarFarag/HMI-Tomato-Canning-Factory-Simulation/assets/103531166/b80bd54e-d3e6-4a3b-9a67-5f9f9c09e65d" width="800" height="450" />
 
-### Label and Ship 
+### Label and Dispatch 
 <br />
 <img src="https://github.com/HajarFarag/HMI-Tomato-Canning-Factory-Simulation/assets/103531166/6035f612-629e-427c-925f-917dde0395e0" width="800" height="450" />
 
